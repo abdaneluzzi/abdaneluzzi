@@ -4,7 +4,7 @@
 - 💼 Hoje trabalho como Analista de sistemas
 - 📚 Estou me aprofundando em HTML, CSS, Javascript e SQL
 - ❤️ Apaixonado por tecnologia
-- 📧 Contate-me no email: brenodaneluzzi@gmail.co
+- 📧 Contate-me no email: brenodaneluzzi@gmail.com
 
 Conhecimento nas tecnologias
 
