@@ -1,8 +1,7 @@
 ### Olá 👋 Eu sou o Arthur Daneluzzi
 
 - 🎓 Formado em Análise e desenvolvimento de sistemas
-- 💼 Hoje trabalho como Analista de sistemas
-- 📚 Estou me aprofundando em HTML, CSS, Javascript e SQL
+- 📚 Estou me aprofundando em Power BI & SQL
 - ❤️ Apaixonado por tecnologia
 - 📧 Contate-me no email: brenodaneluzzi@gmail.com
 
